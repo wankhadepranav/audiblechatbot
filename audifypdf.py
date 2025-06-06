@@ -60,4 +60,4 @@ interface = gr.Interface(
     theme="default"
 )
 
-interface.launch()
+interface.launch(share=False)
